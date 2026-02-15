@@ -1,4 +1,4 @@
-const API = "http://localhost:8000";
+const API = "https://research-portal-backend-u6hi.onrender.com";
 
 export async function uploadFile(file) {
   const fd = new FormData();
